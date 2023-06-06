@@ -1,6 +1,6 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'darkcv');
+define('DB_NAME', 'log');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 
