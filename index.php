@@ -47,7 +47,7 @@ $con->close();
       <nav>
         <button class="material-symbols-outlined"></button>
         <button class="material-symbols-outlined"></button>
-        <a><img src="../img/<?php echo $image; ?>"/></a>
+        <a><img src="profile.jpg"/></a>
         <a href="collabe.php" class="material-symbols-outlined">
           <span class="badge">+9</span>notifications</a>
         <a href="../logout.php" class="material-symbols-outlined">logout</a>
