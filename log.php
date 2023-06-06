@@ -148,9 +148,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST'&& isset($_POST["sign"]) ){
 <footer>
 	<p>
 		Creer avec <i class="fa fa-heart"></i> par
-		<a target="_blank" href="">FR PHP ACADEMY</a>
+		<a target="_blank" href="https://www.youtube.com/channel/UCwYdlsDNae1JdaRL4rJSxTA">FR PHP ACADEMY</a>
 		- voir comment j'ai fais
-		<a target="_blank" href="">click</a>.
+		<a target="_blank" href="https://www.youtube.com/channel/UCwYdlsDNae1JdaRL4rJSxTA">click</a>.
 	</p>
 </footer>
     
