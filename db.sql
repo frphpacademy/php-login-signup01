@@ -1,5 +1,5 @@
 CREATE TABLE `users` (
-  `user_id` int(10) UNSIGNED NOT NULL,
+  `user_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT,
   `username` varchar(255) NOT NULL,
   `email` varchar(255) NOT NULL,
   `password` varchar(255) NOT NULL,
@@ -11,4 +11,4 @@ INSERT INTO `users` (`user_id`, `username`, `email`, `password`) VALUES
 (2, 'user2', 'user2@mail.com', 'user2')
 
 ALTER TABLE `users`
-  MODIFY `user_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `user_id` int(10) AUTO_INCREMENT=3;
